@@ -18,7 +18,6 @@ website:
         contents:
           - project_shade.qmd
           - project_Attento.qmd
-          - project_ADL-older.qmd
 
 format:
   html:
@@ -27,4 +26,3 @@ format:
     toc: true
 
 editor: visual
-
