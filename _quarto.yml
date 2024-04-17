@@ -9,7 +9,8 @@ website:
     contents: 
       - section: "Home"
         contents:
-          - index.qmd
+          - text: Re-Learn Lab
+            file: index.qmd
       - section: "Team"
         contents:
           - team.qmd
