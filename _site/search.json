@@ -4,11 +4,39 @@
     "href": "index.html",
     "title": "Research unit ‘Rehabilitation & Learning’: the Re-Learn Lab",
     "section": "",
-    "text": "The research unit is doing research in field of rehabilitation and acquisition of motor skills.\nWe investigate and design rehabilitation assessments and interventions in various settings. A focus is on the rehabilitation of older people and people with neurological disorders.\nThis website provides information on the Re-Learn Team and details of ongoing projects.\nA special focus of our research unit are systematic reviews.\nShould you be a student seeking a potential topic for a Bachelor’s or Master’s thesis, we would be pleased to hear from you."
+    "text": "Our lab is doing research in field of rehabilitation and acquisition of motor skills.\nWe investigate and design rehabilitation assessments and interventions in various settings. A focus is on the rehabilitation of older people and people with neurological disorders.\nA special focus of our research unit are systematic reviews in different rehabilitation settings.\nThis website provides information on the Re-Learn Team and details of ongoing projects.\nShould you be a student seeking a potential topic for a Bachelor’s or Master’s thesis, we would be pleased to hear from you."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "project_shade.html",
+    "href": "project_shade.html",
+    "title": "Project Shade",
+    "section": "",
+    "text": "During hospitalisation, older adults are at risk of developing functional decline unrelated to the condition for which they were admitted. The loss of independence in at least one activity of daily living is referred to as hospital-associated disability (HAD). According to current reports, the incidence of HAD is 37% (Giacomino et al. 2023). Different interventions are proposed to prevent HAD (such as physical exercises), but it is often difficult to apply the results obtained in the studies into practice. These studies usually only specify the type of training to be done, such as strength training, without specifying any specific exercises or progression options. The objective is to evaluate the effectiveness of physical interventions in patients who are hospitalised or in a rehabilitation setting because of HAD and to develop a targeted training programme.\nThe SHADE project is divided into four work packages (WPs). In WP 1, we will perform a living systematic review with network meta-analysis, which evaluates the effectiveness of physical interventions that target HAD in older adults in the hospital or rehabilitation setting. WP 2 will aim to develop a system to organise and semi-automate the steps of the living systematic review. WP 3 will aim to validate a training programme and a clinical guideline with the highest current level of effectiveness based on the results of WP 1 and WP 2 with experts. WP 4 will aim to develop a web-based interactive platform for clinicians and patients that will include several components such as the updated results of the systematic review, a presentation of the guidelines of the exercise programme for clinicians, and a ready-to-use exercise programme for patients.\nClinicians will be able to keep up to date with new evidence in the field of HAD prevention. The results of this study are highly relevant to practice as those physical interventions preventing HAD are expected to decrease health costs and improve patient outcomes in the hospital phase. Furthermore, these results may potentially reduce the number of re-hospitalisations or costs related to home care.\nThe SHADE project is funded by the SNSF funding scheme “Health and wellbeing”."
+  },
+  {
+    "objectID": "project_Attento.html",
+    "href": "project_Attento.html",
+    "title": "Project Attento",
+    "section": "",
+    "text": "The Project Attento is a collaborative endeavour between the research unit of Prof. Michela Bassolino and the Re-Learn Lab.\nA short presentation of the project is available here:"
+  },
+  {
+    "objectID": "project_ADL-older.html",
+    "href": "project_ADL-older.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"

@@ -2,12 +2,22 @@ project:
   type: website
 
 website:
-  title: "website_research_unit"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Re-Learn Lab"
+  sidebar:
+    style: "floating"
+    search: true
+    contents: 
+      - section: "Home"
+        contents:
+          - index.qmd
+      - section: "Team"
+        contents:
+          - team.qmd
+      - section: "Projects"
+        contents:
+          - project_shade.qmd
+          - project_Attento.qmd
+          - project_ADL-older.qmd
 
 format:
   html:
