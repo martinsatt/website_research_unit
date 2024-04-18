@@ -3,6 +3,18 @@ project:
 
 website:
   title: "Re-Learn Lab"
+  navbar:
+    background: info
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "People"
+        file: team_0_landing_page.qmd
+      - text: "Projects"
+        file: project_0_landing_page.qmd
+        
+  
+  
   sidebar:
     style: "floating"
     search: true
@@ -13,11 +25,12 @@ website:
             file: index.qmd
       - section: "Team"
         contents:
-          - team.qmd
+          - text: People
+            file: team_0_landing_page.qmd
       - section: "Projects"
         contents:
           - project_shade.qmd
-          - project_Attento.qmd
+          - project_attento.qmd
 
 format:
   html:
