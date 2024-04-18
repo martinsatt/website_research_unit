@@ -1,0 +1,19 @@
+---
+title: Katia Giacomino
+about: 
+  template: solana
+  image: ../fig/Profile_KG.png
+  links: 
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0003-0522-3185
+    - icon: scholar
+      text: Google Scholar
+      href: https://scholar.google.de/citations?user=YIC1gHYAAAAJ&hl=en
+---
+
+Katia Giacomino obtained her Bachelor of Science degree in Physiotherapy in 2012 at the University of Applied Sciences Western Switzerland Valais-Wallis. For 3 years, she has worked at the neurology unit (acute and rehabilitation) of the Valais Hospital in Sierre and Sion. In 2015, she has expanded her professional activity to the University Hospital of Lausanne. At the same time, she worked towards completing her Master of Science degree in physiotherapy at the Department of Health Professions of Bern University of Applied Sciences. During her Master’s degree, she specialised in cardio-respiratory physiotherapy.
+
+Since 2018, she is working as a scientific collaborator at the University of Applied Sciences Western Switzerland Valais-Wallis in Leukerbad. There, she is involved in various research projects and is conducting research for her PhD project. She is completing her PhD project in a collaboration between Prof. Martin Karl Sattelmayer from HES-SO Valais-Wallis, Prof. Jan Taeymans from the Department of Health Professions of the University of Applied Sciences in Bern and Prof David Beckwée from the Department of Physiotherapy of the Vrije Universiteit in Brussels.  The aim of one of the studies as part of her PhD project was to identify the tools used to assess activities of daily living in older people and to measure the incidence of hospital-associated disability in the hospital setting. Her current doctoral study focuses on improving the method of assessing patients' performance in activities of daily living.
+
+She is currently also continuing her professional activities, working at the Geriatric and Neurologic department of the Valais Hospital in Sierre.

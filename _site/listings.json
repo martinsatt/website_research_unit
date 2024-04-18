@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/project_shade.html",
+      "/projects/project_attento.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/martin_sattelmayer.html",
+      "/people/katia_giacomino.html"
+    ]
+  }
+]
