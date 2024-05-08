@@ -4,6 +4,7 @@ project:
 website:
   title: "Re-Learn Lab"
   navbar:
+    logo: "fig/Hedgehog_logo.jpeg"
     background: info
     left:
       - text: "Home"
@@ -12,10 +13,13 @@ website:
         file: people.qmd
       - text: "Projects"
         file: projects.qmd
+  
+  page-footer: "Copyright 2024"
+  cookie-consent: true
         
 format:
   html:
-    theme: cosmo
+    theme: slate
     css: styles.css
     toc: true
 

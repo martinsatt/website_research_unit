@@ -2,5 +2,5 @@
 title: "People"
 listing:
   contents: people
-  type: grid
+  type: default
 ---

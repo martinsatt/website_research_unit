@@ -32,15 +32,17 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,9 +73,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -91,6 +93,22 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  });
+});
+</script> 
+  
+
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
@@ -104,6 +122,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./fig/Hedgehog_logo.jpeg" alt="" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Re-Learn Lab</span>
     </a>
@@ -166,40 +187,46 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1713367042187" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1713972157962" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./projects/project_shade.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./projects/project_shade/project_shade.html"> <img src="./projects/project_shade/ShadeLogo.png" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
-<a href="./projects/project_shade.html">
+<a href="./projects/project_shade/project_shade.html">
 <h3 class="no-anchor listing-title">
 Project Shade
 </h3>
 <div class="listing-subtitle">
 
 </div>
+<div class="listing-description">
+During hospitalisation, older adults are at risk of developing functional decline unrelated to the condition for which they were admitted. The loss of independence in at…
+</div>
 </a>
 </div>
 <div class="metadata">
-<a href="./projects/project_shade.html"> </a>
+<a href="./projects/project_shade/project_shade.html"> </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1713367773657" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1713973138212" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./projects/project_attento.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./projects/project_attento/project_attento.html"> <img src="./projects/project_attento/attento_logo.jpeg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
-<a href="./projects/project_attento.html">
+<a href="./projects/project_attento/project_attento.html">
 <h3 class="no-anchor listing-title">
 Project Attento
 </h3>
 <div class="listing-subtitle">
-
+A project about the use of different attentional foci in people with functional motor disorders
+</div>
+<div class="listing-description">
+The Project Attento is a collaborative endeavour between the research unit of Prof.&nbsp;Michela Bassolino and the Re-Learn Lab.
 </div>
 </a>
 </div>
 <div class="metadata">
-<a href="./projects/project_attento.html"> </a>
+<a href="./projects/project_attento/project_attento.html"> </a>
 </div>
 </div>
 </div>
@@ -441,6 +468,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">Copyright 2024<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

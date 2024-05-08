@@ -1,8 +1,10 @@
 ---
 title: K. Martin Sattelmayer
+subtitle: Head of research unit
+image: Profile_KMS.jpg
 about: 
   template: solana
-  image: ../fig/Profile_KMS.jpg
+  image: Profile_KMS.jpg
   links: 
     - icon: orcid
       text: ORCID

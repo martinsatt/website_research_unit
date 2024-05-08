@@ -4,5 +4,4 @@ listing:
   contents: projects
   type: default
   sort: "title-desc"
-  fields: [image, title, subtitle]
 ---

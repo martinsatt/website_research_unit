@@ -2,15 +2,15 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/project_shade.html",
-      "/projects/project_attento.html"
+      "/projects/project_shade/project_shade.html",
+      "/projects/project_attento/project_attento.html"
     ]
   },
   {
     "listing": "/people.html",
     "items": [
-      "/people/martin_sattelmayer.html",
-      "/people/katia_giacomino.html"
+      "/people/martin_sattelmayer/martin_sattelmayer.html",
+      "/people/katia_giacomino/katia_giacomino.html"
     ]
   }
 ]

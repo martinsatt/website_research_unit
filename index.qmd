@@ -2,6 +2,8 @@
 title: "Research unit 'Rehabilitation & Learning': the Re-Learn Lab"
 ---
 
+![](fig/Hedgehog_logo.jpeg){width="120"}
+
 Our lab is doing research in field of rehabilitation and acquisition of motor skills.
 
 We investigate and design rehabilitation assessments and interventions in various settings. A focus is on the rehabilitation of older people and people with neurological disorders.

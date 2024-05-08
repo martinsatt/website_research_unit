@@ -1,8 +1,10 @@
 ---
 title: Katia Giacomino
+subtitle: PhD Student
+image: Profile_KG.png
 about: 
   template: solana
-  image: ../fig/Profile_KG.png
+  image: Profile_KG.png
   links: 
     - icon: orcid
       text: ORCID

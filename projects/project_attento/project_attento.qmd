@@ -1,5 +1,7 @@
 ---
 title: "Project Attento"
+subtitle: A project about the use of different attentional foci in people with functional motor disorders
+image: attento_logo.jpeg
 ---
 
 The Project Attento is a collaborative endeavour between the research unit of Prof. Michela Bassolino and the Re-Learn Lab.
