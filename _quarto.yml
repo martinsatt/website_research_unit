@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  favicon: "fig/favicon.png"
   title: "CARE - Comprehensive Adaptive Rehabilitation for Everyone"
   navbar:
     logo: "fig/Care_logo_medium.png"
