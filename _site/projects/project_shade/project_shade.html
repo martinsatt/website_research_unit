@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -151,14 +170,20 @@ cookieconsent.run({
 
 
 <p><img src="ShadeLogo.png" class="img-fluid" width="254"></p>
-<p>During hospitalisation, older adults are at risk of developing functional decline unrelated to the condition for which they were admitted. The loss of independence in at least one activity of daily living is referred to as hospital-associated disability (HAD). According to current reports, the incidence of HAD is 37% (Giacomino et al.&nbsp;2023). Different interventions are proposed to prevent HAD (such as physical exercises), but it is often difficult to apply the results obtained in the studies into practice. These studies usually only specify the type of training to be done, such as strength training, without specifying any specific exercises or progression options. The objective is to evaluate the effectiveness of physical interventions in patients who are hospitalised or in a rehabilitation setting because of HAD and to develop a targeted training programme.</p>
+<p>During hospitalisation, older adults are at risk of developing functional decline unrelated to the condition for which they were admitted. The loss of independence in at least one activity of daily living is referred to as hospital-associated disability (HAD). According to current reports, the incidence of HAD is 37% <span class="citation" data-cites="giacomino2023">(<a href="#ref-giacomino2023" role="doc-biblioref">Giacomino et al. 2023</a>)</span>. Different interventions are proposed to prevent HAD (such as physical exercises), but it is often difficult to apply the results obtained in the studies into practice. These studies usually only specify the type of training to be done, such as strength training, without specifying any specific exercises or progression options. The objective is to evaluate the effectiveness of physical interventions in patients who are hospitalised or in a rehabilitation setting because of HAD and to develop a targeted training programme.</p>
 <p>The SHADE project is divided into four work packages (WPs). In WP 1, we will perform a living systematic review with network meta-analysis, which evaluates the effectiveness of physical interventions that target HAD in older adults in the hospital or rehabilitation setting. WP 2 will aim to develop a system to organise and semi-automate the steps of the living systematic review. WP 3 will aim to validate a training programme and a clinical guideline with the highest current level of effectiveness based on the results of WP 1 and WP 2 with experts. WP 4 will aim to develop a web-based interactive platform for clinicians and patients that will include several components such as the updated results of the systematic review, a presentation of the guidelines of the exercise programme for clinicians, and a ready-to-use exercise programme for patients.</p>
 <p>Clinicians will be able to keep up to date with new evidence in the field of HAD prevention. The results of this study are highly relevant to practice as those physical interventions preventing HAD are expected to decrease health costs and improve patient outcomes in the hospital phase. Furthermore, these results may potentially reduce the number of re-hospitalisations or costs related to home care.</p>
 <p>The SHADE project is funded by the SNSF funding scheme “Health and wellbeing”.</p>
+<p>For more information about the project, please visit: <a href="https://had-prevention.netlify.app" class="uri">https://had-prevention.netlify.app</a></p>
 
 
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-giacomino2023" class="csl-entry" role="listitem">
+Giacomino, Katia, Roger Hilfiker, David Beckwée, Jan Taeymans, and Karl Martin Sattelmayer. 2023. <span>“Assessment Tools and Incidence of Hospital-Associated Disability in Older Adults: A Rapid Systematic Review.”</span> <em>PeerJ</em> 11 (October): e16036. <a href="https://doi.org/10.7717/peerj.16036">https://doi.org/10.7717/peerj.16036</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -5,7 +5,6 @@ website:
   title: "CARE - Comprehensive Adaptive Rehabilitation for Everyone"
   navbar:
     logo: "fig/Care_logo_medium.png"
-    favicon: "fig/favicon.png"
     background: info
     left:
       - text: "Home"
