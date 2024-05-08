@@ -2,9 +2,10 @@ project:
   type: website
 
 website:
-  title: "Re-Learn Lab"
+  title: "CARE - Comprehensive Adaptive Rehabilitation for Everyone"
   navbar:
-    logo: "fig/Hedgehog_logo.jpeg"
+    logo: "fig/Care_logo_medium.png"
+    favicon: "fig/favicon.png"
     background: info
     left:
       - text: "Home"

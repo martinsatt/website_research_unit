@@ -4,7 +4,7 @@ subtitle: A project about the use of different attentional foci in people with f
 image: attento_logo.jpeg
 ---
 
-The Project Attento is a collaborative endeavour between the research unit of Prof. Michela Bassolino and the Re-Learn Lab.
+The Project Attento is a collaborative endeavour between the research unit of Prof. Michela Bassolino and the Care unit.
 
 A short presentation of the project is available here:
 
